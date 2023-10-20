@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dio.me-s-C-Sharp-challenge-from-a-parking-lot/1.0.0": {
+        "runtime": {
+          "Dio.me-s-C-Sharp-challenge-from-a-parking-lot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dio.me-s-C-Sharp-challenge-from-a-parking-lot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

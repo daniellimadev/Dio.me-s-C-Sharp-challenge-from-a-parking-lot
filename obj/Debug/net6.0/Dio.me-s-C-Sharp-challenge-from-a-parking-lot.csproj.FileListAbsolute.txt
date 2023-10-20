@@ -1,0 +1,15 @@
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\bin\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.exe
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\bin\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.deps.json
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\bin\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.runtimeconfig.json
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\bin\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.dll
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\bin\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.pdb
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.AssemblyInfo.cs
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.dll
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\refint\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.dll
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.pdb
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.genruntimeconfig.cache
+C:\Users\danie\Downloads\Dio.me-s-C-Sharp-challenge-from-a-parking-lot\obj\Debug\net6.0\ref\Dio.me-s-C-Sharp-challenge-from-a-parking-lot.dll
